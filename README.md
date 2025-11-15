@@ -1,26 +1,16 @@
 ## 📸 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
 
-  <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
-    <h4>Home Page</h4>
-    <img src="./screenshots/home.png" alt="Home" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-
-  <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
-    <h4>Post List</h4>
-    <img src="./screenshots/lists.png" alt="List" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-
-  <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
-    <h4>Post Details</h4>
-    <img src="./screenshots/details.png" alt="Details" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
+  <img src="screenshots/home.png" alt="Home Page" style="width: 33%; max-width:450px; border:1px solid #ccc; border-radius:8px;">
+  
+  <img src="screenshots/lists.png" alt="List Page" style="width: 33%; max-width:450px; border:1px solid #ccc; border-radius:8px;">
+  
+  <img src="screenshots/details.png" alt="Details Page" style="width: 33%; max-width:450px; border:1px solid #ccc; border-radius:8px;">
 
 </div>
 
-
- 
+---
 
 # 🚀 Laravel + React + Inertia.js — Full Project Setup Guide
 
