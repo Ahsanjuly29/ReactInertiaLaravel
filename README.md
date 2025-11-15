@@ -1,3 +1,27 @@
+## 📸 Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
+    <h4>Home Page</h4>
+    <img src="./screenshots/home.png" alt="Home" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+  <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
+    <h4>Post List</h4>
+    <img src="./screenshots/list.png" alt="List" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+  <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
+    <h4>Post Details</h4>
+    <img src="./screenshots/details.png" alt="Details" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+</div>
+
+
+ 
+
 # 🚀 Laravel + React + Inertia.js — Full Project Setup Guide
 
 ## ✨ Features
@@ -303,7 +327,4 @@ You now have a **fully functional, production-ready Laravel + React + Inertia.js
 ---
 
 **Made using Laravel + React + Inertia.js**
-
-```
-
 ---
