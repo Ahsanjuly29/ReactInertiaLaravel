@@ -9,7 +9,7 @@
 
   <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
     <h4>Post List</h4>
-    <img src="./screenshots/list.png" alt="List" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="./screenshots/lists.png" alt="List" style="width: 100%; height: auto; border-radius: 8px;">
   </div>
 
   <div style="flex: 1 1 calc(33.333% - 10px); box-sizing: border-box;">
